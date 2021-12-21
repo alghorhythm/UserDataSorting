@@ -10,7 +10,7 @@ Have the output file match the previous headings I supplied - I can send that CS
 Add a column showing Difference of individual cells in Column I & J (Label = Abandoned Initiatives)
 Add a column showing the Sum of individual cells in Column Y & Z (Label = Explored Plans)
 
-Build an output that shows:
+### Build an output that shows:
 Average of Column F (Label = Average Time on Platform)
 Average of Column G (Label = Average Days Active)
 Sum of column I (Label = Total Initiatives Created)
@@ -43,7 +43,7 @@ Average of Column AF for individuals with responses >0 (Label = Average Days on 
 Average of Column AG for individuals with responses >0 (Label = Average Time on Allocation)
 Average of Column AH for individuals with responses >0 (Label = Average Days on Allocation)
 
-Similar to the existing RawtoActive and RawtoUnique programs, I’d like to create similar programs that focus on the unique attributes of our platforms different apps:
+### Similar to the existing RawtoActive and RawtoUnique programs, I’d like to create similar programs that focus on the unique attributes of our platforms different apps:
 Measure RawtoActive - This would be anyone who featured a result >0 in columns I-K
 Plan RawtoActive - This would be anyone who features a result >0 in columns U-Z
 Allocate RawtoActive - This would be anyone who features a result >0 in columns L-N
